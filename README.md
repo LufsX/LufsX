@@ -13,7 +13,7 @@
 [![](https://img.shields.io/badge/iOS-%2014.3-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/ios/ios-14/)
 [![](https://img.shields.io/badge/Android-11%20Stable-00E886?style=flat-square&logo=Android)](https://android.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Browser-Microsoft%20Edge-0061bb?style=flat-square&logo=Microsoft-Edge)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Browser-Microsoft%20Edge-0061bb?style=flat-square&logo=Microsoft-Edge)](https://microsoft.com/edge/)
 
 ---
 
