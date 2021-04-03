@@ -11,7 +11,7 @@
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/macOS-10.15.7%20Catalina-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/macos/catalina/)
-[![](https://img.shields.io/badge/iOS-%2014.4%20Beta-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/ios/ios-14/)
+[![](https://img.shields.io/badge/iOS-%2014.5%20Beta-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/ios/ios-14/)
 [![](https://img.shields.io/badge/Android-11%20Stable-00E886?style=flat-square&logo=Android)](https://android.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Browser-Microsoft%20Edge%20Beta-0061bb?style=flat-square&logo=Microsoft-Edge)](https://www.microsoftedgeinsider.com/download/)
@@ -19,3 +19,7 @@
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=lufsx&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af)
+
+---
+
+![](https://genshin-card.getloli.com/17/16994649.png)
