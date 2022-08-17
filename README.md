@@ -4,15 +4,15 @@
 
 [![](https://img.shields.io/badge/-https://blog.isteed.cc-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.isteed.cc) [![](https://img.shields.io/badge/-t.me/lufsxchannel-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.isteed.cc) [![](https://img.shields.io/badge/-i@isteed.cc-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:i@isteed.cc) [![](https://img.shields.io/badge/-lufs-444eed?style=flat-square&logo=KEYBASE&logoColor=white&labelColor=7f85f3)](https://keybase.io/lufs)
 
-- 👨‍🎓 A vegetable Chicken student who graduated from high school.
+- 👨‍🎓 An incoming freshman who is too young, too simple and sometimes naive.
 - 📝 Low writing level.
-- 🕊 GuGuGu.
+- 🕊 GuGuGu(That could mean delays).
 
 #### Platform&Tools
 
-[![](https://img.shields.io/badge/macOS-12.4%20Monterey-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/macos/monterey/)
+[![](https://img.shields.io/badge/macOS-12.5%20Monterey-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/macos/monterey/)
 [![](https://img.shields.io/badge/iOS-%2016%20Beta%20-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/ios/ios-16-preview/)
-[![](https://img.shields.io/badge/Android-13%20Beta-00E886?style=flat-square&logo=Android)](https://android.com/)
+[![](https://img.shields.io/badge/Android-13%20Stable-00E886?style=flat-square&logo=Android)](https://android.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Browser-Microsoft%20Edge%20Stable-0061bb?style=flat-square&logo=Microsoft-Edge)](https://www.microsoft.com/edge/)
 
