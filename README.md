@@ -10,8 +10,8 @@
 
 #### Platform&Tools
 
-[![](https://img.shields.io/badge/macOS-12.5%20Monterey-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/macos/monterey/)
-[![](https://img.shields.io/badge/iOS-%2016%20-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/ios/ios-16/)
+[![](https://img.shields.io/badge/macOS-13%20Monterey-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/macos/ventura/)
+[![](https://img.shields.io/badge/iOS-%2016.1%20-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/ios/ios-16/)
 [![](https://img.shields.io/badge/Android-13%20Stable-00E886?style=flat-square&logo=Android)](https://android.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Browser-Microsoft%20Edge%20Stable-0061bb?style=flat-square&logo=Microsoft-Edge)](https://www.microsoft.com/edge/)
