@@ -11,9 +11,9 @@
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/Windows-11%2023H2-0077d5?style=flat-square&logo=Windows)](https://www.apple.com.cn/macos/sonoma/)
-[![](https://img.shields.io/badge/macOS-14.3.1%20Monterey-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com.cn/macos/sonoma/)
+[![](https://img.shields.io/badge/macOS-15%20Beta%203%20Sequoia-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com.cn/macos/sonoma/)
 [![](https://img.shields.io/badge/iOS-%2017.1.1%20-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/ios/ios-17/)
-[![](https://img.shields.io/badge/Android-13%20Stable-00E886?style=flat-square&logo=Android)](https://android.com/)
+[![](https://img.shields.io/badge/Android-14%20Stable-00E886?style=flat-square&logo=Android)](https://android.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Browser-Microsoft%20Edge%20Stable-0061bb?style=flat-square&logo=Microsoft-Edge)](https://www.microsoft.com/edge/)
 
