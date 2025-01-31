@@ -11,9 +11,9 @@
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/Windows-11%2024H2-0077d5?style=flat-square&logo=Windows)](https://www.apple.com.cn/macos/sonoma/)
-[![](https://img.shields.io/badge/macOS-15.1%20Sequoia-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com.cn/macos/sonoma/)
-[![](https://img.shields.io/badge/iOS-%2017.1.1%20-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/ios/ios-17/)
-[![](https://img.shields.io/badge/Android-14%20Stable-00E886?style=flat-square&logo=Android)](https://android.com/)
+[![](https://img.shields.io/badge/macOS-15.3%20Sequoia-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com.cn/macos/sonoma/)
+[![](https://img.shields.io/badge/iOS-%2018.3%20-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/ios/ios-18/)
+[![](https://img.shields.io/badge/Android-15%20Stable-00E886?style=flat-square&logo=Android)](https://android.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Browser-Microsoft%20Edge%20Stable-0061bb?style=flat-square&logo=Microsoft-Edge)](https://www.microsoft.com/edge/)
 
